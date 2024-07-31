@@ -1,0 +1,15 @@
+body,
+html,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  flex: 1;
+}
